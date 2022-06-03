@@ -4,10 +4,6 @@
 }
 
 .bicicletas-lista h2 {
-  max-width: 1200px;
-  padding: 0 20px;
-  margin-right: auto;
-  margin-left: auto;
   margin-bottom: 40px;
 }
 
@@ -58,8 +54,10 @@
 
 @media (max-width: 800px) {
   .bicicletas-lista {
+    padding-top: 60px;
     padding-bottom: 60px;
   }
   .bicicletas-lista ul {
+    gap: 20px;
   }
 }
