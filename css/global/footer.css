@@ -24,10 +24,11 @@
   max-width: 360px;
   height: 2px;
   background: var(--cor-11);
+  margin-top: 16px;
 }
 
 .footer li {
-  margin-bottom: 15px;
+  margin-bottom: 16px;
 }
 
 .footer-redes {
