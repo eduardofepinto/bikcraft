@@ -3,17 +3,22 @@
 @import "./global/header.css";
 @import "./global/footer.css";
 
-/* utilities */
+/* utilidades */
 @import "./utilities/componentes.css";
 @import "./utilities/tipografia.css";
 @import "./utilities/cores.css";
+@import "./utilities/formulario.css";
 
-/* home */
+/* index */
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
 @import "./home/parceiros.css";
 @import "./home/depoimento.css";
 @import "./home/seguros.css";
+
+/* contato */
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
 
 /* termos */
 @import "./termos/termos.css";
