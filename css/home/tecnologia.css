@@ -57,7 +57,7 @@
   margin-bottom: 8px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1200px) {
   .tecnologia-bg {
     box-shadow: initial;
   }
@@ -80,7 +80,7 @@
   }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1200px) {
   .tecnologia-vantagens {
     flex-direction: column;
   }
