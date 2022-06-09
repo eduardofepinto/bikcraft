@@ -8,6 +8,7 @@
 @import "./utilities/tipografia.css";
 @import "./utilities/cores.css";
 @import "./utilities/formulario.css";
+@import "./utilities/animacao.css";
 
 /* index */
 @import "./home/introducao.css";
